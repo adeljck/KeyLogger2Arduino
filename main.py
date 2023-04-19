@@ -1,5 +1,4 @@
 from pynput import mouse
-from pprint import pprint
 from pynput import keyboard
 from jinja2 import Environment, FileSystemLoader
 
